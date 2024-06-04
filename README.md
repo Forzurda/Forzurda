@@ -4,9 +4,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Forzurda&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&include_all_commits=true&hide=contribs,issues&rank_icon=github" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Forzurda&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&layout=compact&langs_count=4&card_width=320" />
-</p>
 
 <h3 align="left">Languages and Tools I am familiar with:</h3>
 <p align="left"> 
