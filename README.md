@@ -1,8 +1,9 @@
 ## 👋 Hey there, I'm Forzurda, but you can just call me Forz.
 ### I am a newer developer with strong interests in UX and backend development.
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Forzurda&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&hide=contribs,issues)
-
+<div>
+  <img height="196em" src="https://github-readme-stats.vercel.app/api?username=Forzurda&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&hide=contribs,issues">
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
