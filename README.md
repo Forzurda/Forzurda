@@ -3,7 +3,15 @@
 
 
 
-![My GitHub Stats.](https://github-readme-stats.vercel.app/api?username=Forzurda\&show_icons=true&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff&hide_border=true&include_all_commits=true&hide=contribs,issues&rank_icon=github)
+![My GitHub Stats.]()
+
+
+<a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Forzurda\&show_icons=true&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff&hide_border=true&include_all_commits=true&hide=contribs,issues&rank_icon=github" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Forzurda&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
