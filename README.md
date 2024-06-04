@@ -1,14 +1,9 @@
 ## 👋 Hey there, I'm Forzurda, but you can just call me Forz.
 ### I am a newer developer with strong interests in UX and backend development.
 
-<div>
-<a align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Forzurda&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&include_all_commits=true&hide=contribs,issues&rank_icon=github" />
-</a>
-<a align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Forzurda&layout=compact&langs_count=4&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&card_width=320" />
-</a>
-</div>
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Forzurda&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&include_all_commits=true&hide=contribs,issues&rank_icon=github)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
